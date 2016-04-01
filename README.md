@@ -6,6 +6,7 @@ Simple Elm program that displays Chuck Norris jokes from the awesome "Internet C
 
 # Build steps
 
+- Install UglifyJS: `npm install -g uglifyjs`
 - Run `./build.sh` from the project directory.
 
 # Deploy
